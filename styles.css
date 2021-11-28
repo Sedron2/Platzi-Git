@@ -1,0 +1,13 @@
+* {
+    color: #FFF
+}
+
+body {
+    background-color: grey;
+    justify-content: center;
+}
+
+body > div {
+    width: 100%;
+    text-align: center;
+}
