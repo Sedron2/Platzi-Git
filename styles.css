@@ -12,7 +12,3 @@ body > div {
     width: 100%;
     text-align: center;
 }
-
-div > * {
-    font-family: Arial, Helvetica, sans-serif;
-}
