@@ -50,6 +50,7 @@ body {
     background-color: grey;
     margin: 15px 20px;
     text-align: center;
+    cursor: pointer;
 }
 
 .post > img {
