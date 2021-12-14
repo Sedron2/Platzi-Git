@@ -34,6 +34,21 @@ body {
 }
 
 #head ul li:hover {
+    color: rgb(182, 182, 182);
+    height: 120px;
+}
+
+#head ul li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    cursor: pointer;
+    font-weight: bolder;
+    text-decoration: underline;
+    transition-duration: .3s;
+}
+
+#head ul li:hover {
     color: #323232;
     height: 120px;
 }
