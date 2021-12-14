@@ -2,6 +2,7 @@
     color: #FFF;
     margin: 0;
     padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 body {
@@ -44,14 +45,14 @@ body {
 }
 
 .post {
-    height: 500px;
-    width: 250px;
+    height: 550px;
+    width: 300px;
     background-color: grey;
     margin: 15px 20px;
     text-align: center;
 }
 
 .post > img {
-    height: 250px;
-    width: 250px;
+    height: 300px;
+    width: 300px;
 }
