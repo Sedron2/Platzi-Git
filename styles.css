@@ -1,6 +1,7 @@
 * {
     color: #FFF;
-
+    margin: 0;
+    padding: 0;
 }
 
 body {
@@ -8,7 +9,26 @@ body {
     justify-content: center;
 }
 
-body > div {
+#head {
+    display: grid;
+    place-items: center;
     width: 100%;
+    height: 120px;
     text-align: center;
+    background-color: #323232;
 }
+
+#head ul li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+    cursor: pointer;
+    font-weight: bolder;
+    text-decoration: underline;
+    transition-duration: .3s;
+}
+
+#head ul li:hover {
+    color: rgb(182, 182, 182)
+}
+ 
