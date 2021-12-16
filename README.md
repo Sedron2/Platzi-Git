@@ -1,4 +1,4 @@
-# Este repositorio no es un o real
+# Este repositorio no es un proyecto
 
 Solo es un repositorio para aprender un poco de git y Github. El curso lo estoy haciendo a través de Platzi y hasta ahora he aprendido:
 
